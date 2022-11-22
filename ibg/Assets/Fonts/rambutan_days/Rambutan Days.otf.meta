@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3f9849c7e5e04d3429c4accc1e2d9805
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rambutan Days
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8a76ad22b0c71d1488f1f4196d900025, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
