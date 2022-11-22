@@ -11,19 +11,19 @@ C:\Program Files\Unity 2020.3.40f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/cikat/OneDrive/Masaüstü/Projects/ibg
+C:/Users/cikat/Documents/GitHub/CubeSurfer/ibg
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62871
-Successfully changed project path to: C:/Users/cikat/OneDrive/Masaüstü/Projects/ibg
-C:/Users/cikat/OneDrive/Masaüstü/Projects/ibg
+62808
+Successfully changed project path to: C:/Users/cikat/Documents/GitHub/CubeSurfer/ibg
+C:/Users/cikat/Documents/GitHub/CubeSurfer/ibg
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 39.22 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 36.70 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.40f1 (ba48d4efcef1)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2020.3.40f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/cikat/OneDrive/Masaüstü/Projects/ibg/Assets
+[Subsystems] Discovering subsystems at path C:/Users/cikat/Documents/GitHub/CubeSurfer/ibg/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,89 +35,89 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2020.3.40f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2020.3.40f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2020.3.40f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56116
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2020.3.40f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001319 seconds.
+Registered in 0.001279 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 36.56 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 35.53 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.517 seconds
+- Completed reload, in  0.501 seconds
 Domain Reload Profiling:
-	ReloadAssembly (518ms)
-		BeginReloadAssembly (58ms)
+	ReloadAssembly (502ms)
+		BeginReloadAssembly (55ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (397ms)
-			LoadAssemblies (56ms)
+		EndReloadAssembly (385ms)
+			LoadAssemblies (53ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (131ms)
+			SetupTypeCache (126ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (28ms)
-			SetupLoadedEditorAssemblies (147ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (145ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (37ms)
+				RefreshPlugins (36ms)
 				BeforeProcessingInitializeOnLoad (14ms)
-				ProcessInitializeOnLoadAttributes (69ms)
-				ProcessInitializeOnLoadMethodAttributes (24ms)
+				ProcessInitializeOnLoadAttributes (67ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002518 seconds.
+Registered in 0.002857 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 46.95 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 46.36 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.971 seconds
+- Completed reload, in  1.003 seconds
 Domain Reload Profiling:
-	ReloadAssembly (972ms)
-		BeginReloadAssembly (129ms)
+	ReloadAssembly (1004ms)
+		BeginReloadAssembly (144ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (18ms)
-		EndReloadAssembly (790ms)
-			LoadAssemblies (82ms)
+		EndReloadAssembly (806ms)
+			LoadAssemblies (96ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (248ms)
-			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (41ms)
-			SetupLoadedEditorAssemblies (322ms)
+			SetupTypeCache (263ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (321ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (47ms)
-				BeforeProcessingInitializeOnLoad (60ms)
-				ProcessInitializeOnLoadAttributes (196ms)
+				RefreshPlugins (46ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (194ms)
 				ProcessInitializeOnLoadMethodAttributes (11ms)
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (1ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1883 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 170.1 MB.
-System memory in use after: 170.2 MB.
+Unloading 1877 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 170.8 MB.
+System memory in use after: 170.9 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2342.
-Total: 3.289600 ms (FindLiveObjects: 0.163200 ms CreateObjectMapping: 0.038300 ms MarkObjects: 3.004700 ms  DeleteObjects: 0.082200 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2340.
+Total: 3.428000 ms (FindLiveObjects: 0.210400 ms CreateObjectMapping: 0.076800 ms MarkObjects: 3.077200 ms  DeleteObjects: 0.062100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,801 +131,127 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Ground textures pack
-  artifactKey: Guid(5bf8ccca9355e784bb632d2a3487f746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack using Guid(5bf8ccca9355e784bb632d2a3487f746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd605abbdbf2a7253bff1aa2fedb191df') in 0.008690 seconds 
+  path: Assets/SkySeries Freebie/ExampleScenes
+  artifactKey: Guid(86425fc531d96d146b84220a347e07f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/ExampleScenes using Guid(86425fc531d96d146b84220a347e07f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74ddda0d4083238ebad6d98a669a175f') in 0.006301 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/Ground textures pack/Grass & dead leafs 01
-  artifactKey: Guid(cd2b9f237bdfad345a44473c0ba9326d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & dead leafs 01 using Guid(cd2b9f237bdfad345a44473c0ba9326d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d5068f9b8d46566d7e9063cf8e3fe4') in 0.005844 seconds 
+  Time since last request: 61.706231 seconds.
+  path: Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudBack 1.hdr
+  artifactKey: Guid(cb31ad06ae681684fa1c033b5f7d9264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkySeries Freebie/FreebieHdri/CosmicCoolCloudBack 1.hdr using Guid(cb31ad06ae681684fa1c033b5f7d9264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e4f3439d17acc075890f31ce17a4e5') in 0.133967 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.313611 seconds.
-  path: Assets/Ground textures pack/Grass & dead leafs 01/diffuse.tga
-  artifactKey: Guid(46c9b2c471a59f24cbe88eae93a32f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & dead leafs 01/diffuse.tga using Guid(46c9b2c471a59f24cbe88eae93a32f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f819aaad57619b228ef6566978dee02') in 0.057172 seconds 
+  Time since last request: 38.200109 seconds.
+  path: Assets/FreeVoxelGirl/DemoScene
+  artifactKey: Guid(2dd2cda337e7fd545bd7a775c6ac30c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/DemoScene using Guid(2dd2cda337e7fd545bd7a775c6ac30c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dab9a904fccffab3cf374a69501b1164') in 0.003266 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Ground textures pack/Grass & dead leafs 01/normal.tga
-  artifactKey: Guid(ae0e7acc3616ba441a70994eb662f6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & dead leafs 01/normal.tga using Guid(ae0e7acc3616ba441a70994eb662f6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2129a82b2d7ab484fe8ea570b6992fb') in 0.038497 seconds 
+  Time since last request: 4.297590 seconds.
+  path: Assets/FreeVoxelGirl/Models
+  artifactKey: Guid(0fa498484e4efdd4282bf0b4d2ae9999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models using Guid(0fa498484e4efdd4282bf0b4d2ae9999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '879a5b16abbf1f9ae836c8e155e75a8e') in 0.006232 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/Ground textures pack/Grass & dead leafs 01/Grass & dead leafs pattern 01.mat
-  artifactKey: Guid(893960384de673345a82517892b28bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & dead leafs 01/Grass & dead leafs pattern 01.mat using Guid(893960384de673345a82517892b28bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b8849282d3c22f8da8f1fe0678cc2a4') in 0.170945 seconds 
+  Time since last request: 0.058594 seconds.
+  path: Assets/FreeVoxelGirl/Models/Kaduki.fbx
+  artifactKey: Guid(6e00ebb4a259fe043b183d49331ce18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/Kaduki.fbx using Guid(6e00ebb4a259fe043b183d49331ce18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7485bd015c384f2953f25341444715f') in 0.103143 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Ground textures pack/Grass & dead leafs 01/preview.jpg
-  artifactKey: Guid(9f425c22a471a47459e192cb7dafd4c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & dead leafs 01/preview.jpg using Guid(9f425c22a471a47459e192cb7dafd4c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17e26530f3506eb4c3bf5dfce189917e') in 0.061067 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 48.266480 seconds.
-  path: Assets/Ground textures pack/Grass 01
-  artifactKey: Guid(48eba8bf613314c4f8b6d15d3714cbcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 01 using Guid(48eba8bf613314c4f8b6d15d3714cbcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861d6b2920477735aeffbd6dc1e7fbfa') in 0.006703 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.093467 seconds.
-  path: Assets/Ground textures pack/Grass 01/diffuse.tga
-  artifactKey: Guid(a51044dfe95257548b466bc35528b878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 01/diffuse.tga using Guid(a51044dfe95257548b466bc35528b878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6058418fe86b9dc4443704e1fa223ebb') in 0.019321 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/Ground textures pack/Grass 01/normal.tga
-  artifactKey: Guid(0c3232df383d7984ab0e87bf7c42aadb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 01/normal.tga using Guid(0c3232df383d7984ab0e87bf7c42aadb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f83ef0ea207a2c9a9cc21f13cef52602') in 0.014333 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000330 seconds.
-  path: Assets/Ground textures pack/Grass 01/preview.jpg
-  artifactKey: Guid(c70f0b4ce904a324c8c6dbe6d66251e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 01/preview.jpg using Guid(c70f0b4ce904a324c8c6dbe6d66251e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b602ce76745ee33830e7f0e8a5aa33db') in 0.017803 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/Ground textures pack/Grass 01/Grass pattern 01.mat
-  artifactKey: Guid(2c6f5ab601d22834883d3c7e18f8be41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 01/Grass pattern 01.mat using Guid(2c6f5ab601d22834883d3c7e18f8be41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bfa841682d7c208a36f0383ba343fa6') in 0.111232 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.310998 seconds.
-  path: Assets/Ground textures pack/Grass 02
-  artifactKey: Guid(670bb1edff1f9e748ba8002c0505a987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 02 using Guid(670bb1edff1f9e748ba8002c0505a987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0994739b51643c017a19bf90ac82accc') in 0.006279 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.063644 seconds.
-  path: Assets/Ground textures pack/Grass 02/diffuse.tga
-  artifactKey: Guid(d902345b12dd31e4a83f0c375a540341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 02/diffuse.tga using Guid(d902345b12dd31e4a83f0c375a540341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae881dd2facd22d259d5242225047f99') in 0.012962 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/Ground textures pack/Grass 02/normal.tga
-  artifactKey: Guid(3449a2e698a0deb44a70dec747a3f8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 02/normal.tga using Guid(3449a2e698a0deb44a70dec747a3f8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901fd7e5e6c0482f2b96453135d3969b') in 0.036262 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000315 seconds.
-  path: Assets/Ground textures pack/Grass 02/preview.jpg
-  artifactKey: Guid(c3f3938c7c9e3d746a4d01269c0e3bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 02/preview.jpg using Guid(c3f3938c7c9e3d746a4d01269c0e3bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '024215998b389678d3333665e507098c') in 0.017575 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000485 seconds.
-  path: Assets/Ground textures pack/Grass 02/Grass pattern 02.mat
-  artifactKey: Guid(15654a743eccf384fb2312048db767f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 02/Grass pattern 02.mat using Guid(15654a743eccf384fb2312048db767f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff46d31267cd8ecb8a0f2fe45175193') in 0.016076 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.114438 seconds.
-  path: Assets/Ground textures pack/Grass 03
-  artifactKey: Guid(4210ec5a0e8d6da4ca897cdc89f4a682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 03 using Guid(4210ec5a0e8d6da4ca897cdc89f4a682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c60b970a572ea072d4bb85fadcefcd') in 0.006142 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.239638 seconds.
-  path: Assets/Ground textures pack/Grass 03/diffuse.tga
-  artifactKey: Guid(e9866699a4ddce642b7da4aeaa74d279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 03/diffuse.tga using Guid(e9866699a4ddce642b7da4aeaa74d279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfcc4e8108499d02a6691c259cf2c55e') in 0.014424 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Ground textures pack/Grass 03/Grass pattern 03.mat
-  artifactKey: Guid(d86005a29439b7541ade84523818db1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 03/Grass pattern 03.mat using Guid(d86005a29439b7541ade84523818db1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a812f5fe71db6b2dcfa7b537a7a9df36') in 0.018514 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000324 seconds.
-  path: Assets/Ground textures pack/Grass 03/preview.jpg
-  artifactKey: Guid(9074a9b5ce95d5b4eb1a31e80b0a0a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 03/preview.jpg using Guid(9074a9b5ce95d5b4eb1a31e80b0a0a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79a2c75573fe7b78efbb47d0faced7bf') in 0.020555 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/Ground textures pack/Grass 03/normal.tga
-  artifactKey: Guid(9cb8a98194aa15642b2ceaa3011ccde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 03/normal.tga using Guid(9cb8a98194aa15642b2ceaa3011ccde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4a58d9c7b00e213209dc275cc6fd2a') in 0.013693 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.544915 seconds.
-  path: Assets/Ground textures pack/Grass 04
-  artifactKey: Guid(c36930ad01287c8449cdaa8df00cc331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 04 using Guid(c36930ad01287c8449cdaa8df00cc331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e79facc808ef66cc389538d60f8869') in 0.006359 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.034361 seconds.
-  path: Assets/Ground textures pack/Grass 04/diffuse.tga
-  artifactKey: Guid(e939889a01ba73f4c9f41bb8d6d79d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 04/diffuse.tga using Guid(e939889a01ba73f4c9f41bb8d6d79d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d758da568a862ed9911437387fd0695') in 0.016194 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Ground textures pack/Grass 04/Grass pattern 04.mat
-  artifactKey: Guid(059cceb0ba6e50741bfe6ec2c755d5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 04/Grass pattern 04.mat using Guid(059cceb0ba6e50741bfe6ec2c755d5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5a69dc4d1f78ae2c47207c429ab602') in 0.019497 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/Ground textures pack/Grass 04/normal.tga
-  artifactKey: Guid(764d3e4236eef804e831508161d4411f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 04/normal.tga using Guid(764d3e4236eef804e831508161d4411f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7537c261e9fb823470b32a4345706531') in 0.014389 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Ground textures pack/Grass 04/preview.jpg
-  artifactKey: Guid(023e18c83e08fe848a850693dc1cf60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 04/preview.jpg using Guid(023e18c83e08fe848a850693dc1cf60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89eadc41470971eb1a91de5076952f39') in 0.016823 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.271441 seconds.
-  path: Assets/Ground textures pack/Grass & dead leafs 02
-  artifactKey: Guid(a3b518325b41fa54dba9f8d90a3481d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & dead leafs 02 using Guid(a3b518325b41fa54dba9f8d90a3481d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '458947f1898f7ef7967deeecd9b48643') in 0.007958 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.109365 seconds.
-  path: Assets/Ground textures pack/Grass & dead leafs 02/diffuse.tga
-  artifactKey: Guid(f77d739839b967e44898c8a89688369a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & dead leafs 02/diffuse.tga using Guid(f77d739839b967e44898c8a89688369a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04fa86cade56734bbdd9f0d04d5bea22') in 0.018965 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/Ground textures pack/Grass & dead leafs 02/normal.tga
-  artifactKey: Guid(0c64d261e58031345b9844438ceb0af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & dead leafs 02/normal.tga using Guid(0c64d261e58031345b9844438ceb0af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c15ebb865679491540d88d3b66c1bd23') in 0.014265 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/Ground textures pack/Grass & dead leafs 02/preview.jpg
-  artifactKey: Guid(a9151bfe4152f2748846a0fa52b216be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & dead leafs 02/preview.jpg using Guid(a9151bfe4152f2748846a0fa52b216be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa3a359fbad4985daa1a441d5dc1013d') in 0.014368 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000303 seconds.
-  path: Assets/Ground textures pack/Grass & dead leafs 02/Grass & dead leafs pattern 02.mat
-  artifactKey: Guid(020b997e4fa23c74297e208cd649319c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & dead leafs 02/Grass & dead leafs pattern 02.mat using Guid(020b997e4fa23c74297e208cd649319c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97931d942ae73df67d5d8b2d5268ee84') in 0.019560 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.143150 seconds.
-  path: Assets/Ground textures pack/Grass & rocks
-  artifactKey: Guid(181607655676a77429b2261649354eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & rocks using Guid(181607655676a77429b2261649354eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48abe4c3bd47f09a1b85eeb567588551') in 0.006774 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.493633 seconds.
-  path: Assets/Ground textures pack/Grass & rocks/diffuse.tga
-  artifactKey: Guid(12ff3c37d59e28240a8f4643c3ead3d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & rocks/diffuse.tga using Guid(12ff3c37d59e28240a8f4643c3ead3d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a11bb6ced8b54b17f202d84fb3d96f29') in 0.012039 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000328 seconds.
-  path: Assets/Ground textures pack/Grass & rocks/normal.tga
-  artifactKey: Guid(e5895469fa6440e4a876bf0672599e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & rocks/normal.tga using Guid(e5895469fa6440e4a876bf0672599e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '491312595acf6269ac1f9a8faf02f413') in 0.013063 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000400 seconds.
-  path: Assets/Ground textures pack/Grass & rocks/Grass & rocks pattern.mat
-  artifactKey: Guid(fedc75da63b32e249bccd7450cd29351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & rocks/Grass & rocks pattern.mat using Guid(fedc75da63b32e249bccd7450cd29351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '110d0f12599851ad653682d0b36db2c3') in 0.019791 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Ground textures pack/Grass & rocks/preview.jpg
-  artifactKey: Guid(8d88ad474360045458b4fb808dbb4ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & rocks/preview.jpg using Guid(8d88ad474360045458b4fb808dbb4ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71e13d71ece40747a11d591ac02e1810') in 0.015637 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 36.727358 seconds.
-  path: Assets/Ground textures pack/Ground 02
-  artifactKey: Guid(61f0988cdcdcb6c40a9cd93d1caa2be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Ground 02 using Guid(61f0988cdcdcb6c40a9cd93d1caa2be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf26e699cfea383cf60d4fe3f092191') in 0.005807 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.047979 seconds.
-  path: Assets/Ground textures pack/Ground 02/diffuse.tga
-  artifactKey: Guid(cd4f831376722b54bbadd59ef7c6c744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Ground 02/diffuse.tga using Guid(cd4f831376722b54bbadd59ef7c6c744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b13399c32a4c66b5e120a1cb37433358') in 0.019308 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/Ground textures pack/Ground 02/preview.jpg
-  artifactKey: Guid(37779bd72b60e0d4395ece867eb81c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Ground 02/preview.jpg using Guid(37779bd72b60e0d4395ece867eb81c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60c7d6140687effa7f257b7812fadeee') in 0.014557 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Ground textures pack/Ground 02/Ground pattern 02.mat
-  artifactKey: Guid(36508c771463abf43b7135d9539897e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Ground 02/Ground pattern 02.mat using Guid(36508c771463abf43b7135d9539897e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ac7153dda3dac980261bfcc14045e5') in 0.016204 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/Ground textures pack/Ground 02/normal.tga
-  artifactKey: Guid(bf5346a62bd7d0b43a30d8188cf4163e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Ground 02/normal.tga using Guid(bf5346a62bd7d0b43a30d8188cf4163e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3126ca2d70fe9809feb438bf42b9253') in 0.013181 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.216507 seconds.
-  path: Assets/Ground textures pack/Lava
-  artifactKey: Guid(f9a8c2b9832496941892a445ff0a4574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Lava using Guid(f9a8c2b9832496941892a445ff0a4574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda955c1133178a05081981d4be712e9') in 0.006010 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.047248 seconds.
-  path: Assets/Ground textures pack/Lava/diffuse.tga
-  artifactKey: Guid(cc2d009b31ce2134a9438a34a78632a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Lava/diffuse.tga using Guid(cc2d009b31ce2134a9438a34a78632a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa2fc406c0187e93e3160ba5fd2c77b') in 0.062008 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Ground textures pack/Lava/preview.jpg
-  artifactKey: Guid(70e8908fa6e673249ad9ff9cb1f1e13b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Lava/preview.jpg using Guid(70e8908fa6e673249ad9ff9cb1f1e13b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '201efd4d80de850c46e23388eb73a809') in 0.017404 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/Ground textures pack/Lava/normal.tga
-  artifactKey: Guid(d9327a0e08e4ab54284a5f31a7e7db5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Lava/normal.tga using Guid(d9327a0e08e4ab54284a5f31a7e7db5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97b939bc9c34e92130538bf4f8684c73') in 0.014727 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/Ground textures pack/Lava/emissive.tga
-  artifactKey: Guid(c65e186198f501046a0aba89c6335cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Lava/emissive.tga using Guid(c65e186198f501046a0aba89c6335cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d74d28e7203e05c4ec2e267d4f7c19') in 0.014025 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/Ground textures pack/Lava/Lava pattern.mat
-  artifactKey: Guid(42e26e838cb21e944aa7de2aae4edefc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Lava/Lava pattern.mat using Guid(42e26e838cb21e944aa7de2aae4edefc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89543e9ecebeb91934069ba26c2ba067') in 0.103110 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 36.493238 seconds.
-  path: Assets/Ground textures pack/Grass & dead leafs 01/Materials/diffuse.mat
-  artifactKey: Guid(2eb0317ad09a75a4aa7024e1f4f68414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & dead leafs 01/Materials/diffuse.mat using Guid(2eb0317ad09a75a4aa7024e1f4f68414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '204b2d16e7a9ef15a506753adcb4980e') in 0.018772 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000322 seconds.
-  path: Assets/Ground textures pack/Grass & dead leafs 02/Materials/diffuse.mat
-  artifactKey: Guid(a1a865e676370b844a5c943dfe5fbed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & dead leafs 02/Materials/diffuse.mat using Guid(a1a865e676370b844a5c943dfe5fbed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787ac8bdfdadf34493c148b3db57c5db') in 0.015133 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Ground textures pack/Dry ground/Dry ground pattern.mat
-  artifactKey: Guid(d805d830c4023774cb6259aca09f431e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Dry ground/Dry ground pattern.mat using Guid(d805d830c4023774cb6259aca09f431e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51ee03f92392010a9b981e03b3904e96') in 0.018683 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000268 seconds.
-  path: Assets/Ground textures pack/Grass & rocks/Materials/diffuse.mat
-  artifactKey: Guid(3b40a51a39c37484ca5d0335b4bfa996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & rocks/Materials/diffuse.mat using Guid(3b40a51a39c37484ca5d0335b4bfa996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e761297e3c555217ee138ed95b0ffffd') in 0.015654 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.473717 seconds.
-  path: Assets/Ground textures pack/Grass 05/Grass pattern 05.mat
-  artifactKey: Guid(49c3c02661a83fd42b33859cfbf9a17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 05/Grass pattern 05.mat using Guid(49c3c02661a83fd42b33859cfbf9a17d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c6b7322f724febb8a3c52ae256d5578') in 0.015472 seconds 
+  Time since last request: 0.000359 seconds.
+  path: Assets/FreeVoxelGirl/Models/KadukiSailorSuitBlackHair.fbx
+  artifactKey: Guid(c4737660183f08c4fb0c5b84ea2ba391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/KadukiSailorSuitBlackHair.fbx using Guid(c4737660183f08c4fb0c5b84ea2ba391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b5d3934474c52da54737c2f09e10bba') in 0.045111 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000275 seconds.
-  path: Assets/Ground textures pack/Ground & moss/Ground & moss pattern.mat
-  artifactKey: Guid(5558b5711d37782468eeee5c2880e7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Ground & moss/Ground & moss pattern.mat using Guid(5558b5711d37782468eeee5c2880e7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3cf06ab4066fcb6b0da87cd31b59a84') in 0.016829 seconds 
+  path: Assets/FreeVoxelGirl/Models/KadukiSailorSuitRedHair.fbx
+  artifactKey: Guid(04d4768f0734bf849af669d64d6cf60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/KadukiSailorSuitRedHair.fbx using Guid(04d4768f0734bf849af669d64d6cf60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69f951d9684f5f3cf9300d2a95bef527') in 0.033206 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Ground textures pack/Grass 06/Grass pattern 06.mat
-  artifactKey: Guid(9dccf2dcc78efe741b7931e3bb85beaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 06/Grass pattern 06.mat using Guid(9dccf2dcc78efe741b7931e3bb85beaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff40c47199a2db52af85144b1490edc') in 0.016870 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.667537 seconds.
-  path: Assets/Ground textures pack/Ground & rocks 01/Ground & rocks pattern 01.mat
-  artifactKey: Guid(224de5a1c3ba5f948af30bd7826e4666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Ground & rocks 01/Ground & rocks pattern 01.mat using Guid(224de5a1c3ba5f948af30bd7826e4666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e1921354af2e6a466e39b2f42da2ca1') in 0.054056 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000392 seconds.
-  path: Assets/Ground textures pack/Ground & weeds/Ground & weeds.mat
-  artifactKey: Guid(5674184a87d87e54ca8047426601a57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Ground & weeds/Ground & weeds.mat using Guid(5674184a87d87e54ca8047426601a57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7635b08a52722bcb4a462f34af25cad6') in 0.025224 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Ground textures pack/Ground 01/Ground pattern 01.mat
-  artifactKey: Guid(748487d582b00d847bd57517f78d8e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Ground 01/Ground pattern 01.mat using Guid(748487d582b00d847bd57517f78d8e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '086f40d5686fd62dbdd9e41ac1bb7209') in 0.021843 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/Ground textures pack/Ground & rocks 02/Ground & rocks pattern 02.mat
-  artifactKey: Guid(e7268e596932cb541834f57d320a4677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Ground & rocks 02/Ground & rocks pattern 02.mat using Guid(e7268e596932cb541834f57d320a4677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b17209f9c7151b46dd3d85dd3d4932c') in 0.017996 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Ground textures pack/Grass 04/Materials/normal.mat
-  artifactKey: Guid(7aca1fa9317ff8247ab700e8e0deef6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass 04/Materials/normal.mat using Guid(7aca1fa9317ff8247ab700e8e0deef6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '047f55df1b0af435533d9f867008c0f9') in 0.022249 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000381 seconds.
-  path: Assets/Ground textures pack/Ground & rocks 03/Ground & rocks pattern 03.mat
-  artifactKey: Guid(bce0cd8cdfffc2a41b798316325a24d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Ground & rocks 03/Ground & rocks pattern 03.mat using Guid(bce0cd8cdfffc2a41b798316325a24d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f14ba706e6a30f6f74379dad5953866') in 0.026448 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/Ground textures pack/Grass & rocks/Materials/preview.mat
-  artifactKey: Guid(079411a38df8d5648a43a60ac28dbde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground textures pack/Grass & rocks/Materials/preview.mat using Guid(079411a38df8d5648a43a60ac28dbde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f4d35d59292f3ef8001077df1fdf896') in 0.023130 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 584.714360 seconds.
-  path: Assets/FreeVoxelGirl
-  artifactKey: Guid(5739f70fbc815434d9b2c5eccb7be68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl using Guid(5739f70fbc815434d9b2c5eccb7be68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb0dfb5b8bfb4e3fc8d0bfa3606a222') in 0.005801 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.047688 seconds.
-  path: Assets/FreeVoxelGirl/KadukiBlackHairPrefab.prefab
-  artifactKey: Guid(b7c42c09b24544a4999f0422c16f1b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/KadukiBlackHairPrefab.prefab using Guid(b7c42c09b24544a4999f0422c16f1b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3f55383a8e2d6b77545386244e2a0f7') in 0.090484 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000153 seconds.
-  path: Assets/FreeVoxelGirl/KadukiRedHairPrefab.prefab
-  artifactKey: Guid(0d86795920eaddb4ba82646fed326c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/KadukiRedHairPrefab.prefab using Guid(0d86795920eaddb4ba82646fed326c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4afb12048fe2e52765912b55af12fb83') in 0.015258 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000261 seconds.
-  path: Assets/FreeVoxelGirl/KadukiPrefab.prefab
-  artifactKey: Guid(989ce40495247634d89824a0ded750d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/KadukiPrefab.prefab using Guid(989ce40495247634d89824a0ded750d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5e1af114dd8b177a510b3e40c51778') in 0.022122 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/FreeVoxelGirl/KadukiSailorSuitRedHairPrefab.prefab
-  artifactKey: Guid(8aa8a0d6151709d468a12ff31a143ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/KadukiSailorSuitRedHairPrefab.prefab using Guid(8aa8a0d6151709d468a12ff31a143ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a432c0145b5f55c945d7f1775d7e7c1d') in 0.020888 seconds 
+  Time since last request: 0.000218 seconds.
+  path: Assets/FreeVoxelGirl/Models/KadukiBlackHair.fbx
+  artifactKey: Guid(71c5cee00664cc042a83a84b72bbab49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/KadukiBlackHair.fbx using Guid(71c5cee00664cc042a83a84b72bbab49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d47aabffa514f01ceadc3da80f4184') in 0.092774 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000247 seconds.
-  path: Assets/FreeVoxelGirl/KadukiSailorSuitBlackHairPrefab.prefab
-  artifactKey: Guid(1bfbbc6538377cc4682f7075bb62c057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/KadukiSailorSuitBlackHairPrefab.prefab using Guid(1bfbbc6538377cc4682f7075bb62c057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fbd5214b083a0d0c8d8eae194842da8') in 0.023159 seconds 
+  path: Assets/FreeVoxelGirl/Models/KadukiRedHair.fbx
+  artifactKey: Guid(c7e86ca3776270c43a65809493cdc6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/KadukiRedHair.fbx using Guid(c7e86ca3776270c43a65809493cdc6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68140fe08dab732adfdbc0633be0b496') in 0.032658 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000322 seconds.
-  path: Assets/FreeVoxelGirl/KadukiSailorSuitPrefab.prefab
-  artifactKey: Guid(8c11172e68a1efd438f4ee678b0fb544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/KadukiSailorSuitPrefab.prefab using Guid(8c11172e68a1efd438f4ee678b0fb544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab5456cf58e65d6334f54261b6d0060') in 0.029700 seconds 
+  Time since last request: 0.000249 seconds.
+  path: Assets/FreeVoxelGirl/Models/KadukiSailorSuit.fbx
+  artifactKey: Guid(f97c1fe3ea5dc7641adb6d91427a5c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/KadukiSailorSuit.fbx using Guid(f97c1fe3ea5dc7641adb6d91427a5c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c73307210319b71148793e91fe6f96') in 0.027394 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 55.117403 seconds.
-  path: Assets/Scenes/Scene2.unity
-  artifactKey: Guid(b8e9d7e572034234dacacc385f06f303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Scene2.unity using Guid(b8e9d7e572034234dacacc385f06f303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd298332509a853f571446ffae5089204') in 0.006998 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002366 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.897 seconds
-Domain Reload Profiling:
-	ReloadAssembly (897ms)
-		BeginReloadAssembly (109ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (35ms)
-		EndReloadAssembly (734ms)
-			LoadAssemblies (80ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (245ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (39ms)
-			SetupLoadedEditorAssemblies (276ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (62ms)
-				ProcessInitializeOnLoadAttributes (193ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (2ms)
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1874 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 188.8 MB.
-System memory in use after: 189.0 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2393.
-Total: 3.037800 ms (FindLiveObjects: 0.185300 ms CreateObjectMapping: 0.037900 ms MarkObjects: 2.785200 ms  DeleteObjects: 0.028100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  Time since last request: 1.662896 seconds.
+  path: Assets/FreeVoxelGirl/Models/Texture
+  artifactKey: Guid(75f80d580691e084c92026d8b5807332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/Texture using Guid(75f80d580691e084c92026d8b5807332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f2496072bb9bce9ccec7e3723b6dd7b') in 0.007073 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 68.746146 seconds.
-  path: Assets/FreeVoxelGirl/Animations
-  artifactKey: Guid(4075b22c0a6d6f7488041e76fcf0f76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/Animations using Guid(4075b22c0a6d6f7488041e76fcf0f76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df8860fa16d0b1f1e2a980ddd27baef') in 0.009390 seconds 
+  Time since last request: 0.951480 seconds.
+  path: Assets/FreeVoxelGirl/Models/Materials
+  artifactKey: Guid(5072d578cc440a54393222eb5b96eb6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/Materials using Guid(5072d578cc440a54393222eb5b96eb6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4bb3610e3f37d160d04c045a18f9247') in 0.002845 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.030665 seconds.
-  path: Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@damage.fbx
-  artifactKey: Guid(996579541d2a58c40a82fa0fd43fd6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@damage.fbx using Guid(996579541d2a58c40a82fa0fd43fd6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1788935bf7cae0e2e4637a28514be9c8') in 0.170734 seconds 
+  Time since last request: 0.061020 seconds.
+  path: Assets/FreeVoxelGirl/Models/Materials/FreeVoxelGirlBlackhair.mat
+  artifactKey: Guid(6758b689e0795b6418e34fa2b550ac4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/Materials/FreeVoxelGirlBlackhair.mat using Guid(6758b689e0795b6418e34fa2b550ac4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09dd6b533590fcb8888719a60dfbc5d3') in 0.029699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/FreeVoxelGirl/Models/Materials/FreeVoxelGirlRedhair.mat
+  artifactKey: Guid(c5906a6033a74f44d8e13f8ddfc744f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/Materials/FreeVoxelGirlRedhair.mat using Guid(c5906a6033a74f44d8e13f8ddfc744f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d0c1e58626283af659adea8677f129') in 0.016736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/FreeVoxelGirl/Models/Materials/Kaduki.mat
+  artifactKey: Guid(f7e127ad9ed1a1c42bdf62e1681316cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/Materials/Kaduki.mat using Guid(f7e127ad9ed1a1c42bdf62e1681316cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee39f3424a6d9c9704c2804d9fbd5985') in 0.010664 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000267 seconds.
-  path: Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@jump-up.fbx
-  artifactKey: Guid(2f62d6c2a223aa642a719c525762c8f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@jump-up.fbx using Guid(2f62d6c2a223aa642a719c525762c8f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e919febad09a02739d59c5e2c3e7bb6c') in 0.036541 seconds 
+  path: Assets/FreeVoxelGirl/Models/Materials/KadukiSailorSuit.mat
+  artifactKey: Guid(668913a9385e1104d90442f9e9f95eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/Materials/KadukiSailorSuit.mat using Guid(668913a9385e1104d90442f9e9f95eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6544e742cd2c2d2baabf7974c48b45b2') in 0.014917 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000347 seconds.
-  path: Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@jump-landing.fbx
-  artifactKey: Guid(2290e88d1d16e1c4296b3382feecc695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@jump-landing.fbx using Guid(2290e88d1d16e1c4296b3382feecc695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4874e06deacd89cea29ec1b3bd6d9f12') in 0.037202 seconds 
+  Time since last request: 0.000222 seconds.
+  path: Assets/FreeVoxelGirl/Models/Materials/KadukiBlackHair.mat
+  artifactKey: Guid(2896d36e5e1c3d940ac9dd7b2bb57c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/Materials/KadukiBlackHair.mat using Guid(2896d36e5e1c3d940ac9dd7b2bb57c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61f32290eebe18fc56a4a00308f6b7b') in 0.011347 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@walk.fbx
-  artifactKey: Guid(75839d3da51de654d91860ea52982798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@walk.fbx using Guid(75839d3da51de654d91860ea52982798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d6ff649de966ef8ca4d83bdcd49e985') in 0.033288 seconds 
+  Time since last request: 0.000203 seconds.
+  path: Assets/FreeVoxelGirl/Models/Materials/KadukiRedHair.mat
+  artifactKey: Guid(58b4cbc9b65092944b1a471417363bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/Materials/KadukiRedHair.mat using Guid(58b4cbc9b65092944b1a471417363bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee24917119ab0614b4109c447971a7c4') in 0.013035 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@jump02.fbx
-  artifactKey: Guid(cae7d62a8df7bba4cbce3e5ece977e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@jump02.fbx using Guid(cae7d62a8df7bba4cbce3e5ece977e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8b85593136afa2e2b200ea6e3df3e1') in 0.035544 seconds 
+  Time since last request: 0.000244 seconds.
+  path: Assets/FreeVoxelGirl/Models/Materials/KadukiSailorSuitBlackHair.mat
+  artifactKey: Guid(62ad269282b7a814cbc9b33a71fa967f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/Materials/KadukiSailorSuitBlackHair.mat using Guid(62ad269282b7a814cbc9b33a71fa967f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c37bcdf964d049451205aaf37d85da6') in 0.012303 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@jump.fbx
-  artifactKey: Guid(c4dd101abb5e94c46908eaea32e5b013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@jump.fbx using Guid(c4dd101abb5e94c46908eaea32e5b013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a61b3940f853f8e95a2aa986ee110191') in 0.041114 seconds 
+  Time since last request: 0.000207 seconds.
+  path: Assets/FreeVoxelGirl/Models/Materials/voxkaduki02.mat
+  artifactKey: Guid(8f36af419ad7f8e40a44e5be2ab3a10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/Materials/voxkaduki02.mat using Guid(8f36af419ad7f8e40a44e5be2ab3a10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3994929bb7ddf8fb45d6bdec85b267') in 0.053783 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@jump-float.fbx
-  artifactKey: Guid(955a71ff0beaa41448a3cadcc5ca9b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@jump-float.fbx using Guid(955a71ff0beaa41448a3cadcc5ca9b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dddddd13e3d01f9fd40adc2a2762cc5') in 0.038388 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@lose.fbx
-  artifactKey: Guid(99949e9df782b204c9360e8cc558a6ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@lose.fbx using Guid(99949e9df782b204c9360e8cc558a6ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b598c5ecb5f834661898a4a01d4957d') in 0.036229 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@death.fbx
-  artifactKey: Guid(b513ed76c5116f042968d30a2d022a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@death.fbx using Guid(b513ed76c5116f042968d30a2d022a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64879f3ab2e908c5391bb36954a7beed') in 0.033710 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@run.fbx
-  artifactKey: Guid(d15253bef5c73ec4996b6fca99ff2cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@run.fbx using Guid(d15253bef5c73ec4996b6fca99ff2cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b537470655fcb8d64370a7b6b4eee9') in 0.028058 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@idle.fbx
-  artifactKey: Guid(85dbe363cd959864093428f6c76c9482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/FreeVoxelGirl/Animations/FreeVoxelGirl@idle.fbx using Guid(85dbe363cd959864093428f6c76c9482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881079f6df231c264a61907a5bf061a6') in 0.027235 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 155.925106 seconds.
-  path: Assets/Scripts/PlayerMovement.cs
-  artifactKey: Guid(db93100efba670f43ab9e00bd69d4d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerMovement.cs using Guid(db93100efba670f43ab9e00bd69d4d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '627b04aac5670eb3648cbe11b9a912b9') in 0.011761 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.455708 seconds.
-  path: Assets/Scripts/Collector.cs
-  artifactKey: Guid(538997c7669c5aa43879e7e8d4c1c25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Collector.cs using Guid(538997c7669c5aa43879e7e8d4c1c25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bc93a13f40da5fd0dc8c91710abba61') in 0.005888 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002641 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.911 seconds
-Domain Reload Profiling:
-	ReloadAssembly (911ms)
-		BeginReloadAssembly (104ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (34ms)
-		EndReloadAssembly (753ms)
-			LoadAssemblies (81ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (279ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (35ms)
-			SetupLoadedEditorAssemblies (267ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (61ms)
-				ProcessInitializeOnLoadAttributes (187ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (2ms)
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1874 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 189.0 MB.
-System memory in use after: 189.1 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2400.
-Total: 3.259300 ms (FindLiveObjects: 0.211300 ms CreateObjectMapping: 0.052500 ms MarkObjects: 2.965100 ms  DeleteObjects: 0.029300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 76.819011 seconds.
-  path: Assets/Animation/PlayerAnimator.controller
-  artifactKey: Guid(bc17d1aba9528dd41ae8e40de3dd866e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animation/PlayerAnimator.controller using Guid(bc17d1aba9528dd41ae8e40de3dd866e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a40aa42791735085eff58d22cd108f') in 0.022242 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002428 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.846 seconds
-Domain Reload Profiling:
-	ReloadAssembly (846ms)
-		BeginReloadAssembly (95ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (29ms)
-		EndReloadAssembly (700ms)
-			LoadAssemblies (75ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (231ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (31ms)
-			SetupLoadedEditorAssemblies (268ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (57ms)
-				ProcessInitializeOnLoadAttributes (192ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (2ms)
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1874 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 189.1 MB.
-System memory in use after: 189.2 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2403.
-Total: 2.950900 ms (FindLiveObjects: 0.165800 ms CreateObjectMapping: 0.037600 ms MarkObjects: 2.723500 ms  DeleteObjects: 0.022900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 168.832983 seconds.
-  path: Assets/Scripts/Collector.cs
-  artifactKey: Guid(538997c7669c5aa43879e7e8d4c1c25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Collector.cs using Guid(538997c7669c5aa43879e7e8d4c1c25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f92f17bdb555ffd073ddf7aef7880ba') in 0.004594 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002706 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.897 seconds
-Domain Reload Profiling:
-	ReloadAssembly (898ms)
-		BeginReloadAssembly (99ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (30ms)
-		EndReloadAssembly (744ms)
-			LoadAssemblies (80ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (240ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (291ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (69ms)
-				ProcessInitializeOnLoadAttributes (199ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (2ms)
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1874 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 189.1 MB.
-System memory in use after: 189.2 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2406.
-Total: 3.731900 ms (FindLiveObjects: 0.172700 ms CreateObjectMapping: 0.039700 ms MarkObjects: 3.490500 ms  DeleteObjects: 0.027800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002798 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.053 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1054ms)
-		BeginReloadAssembly (121ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (37ms)
-		EndReloadAssembly (872ms)
-			LoadAssemblies (100ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (288ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (39ms)
-			SetupLoadedEditorAssemblies (331ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (71ms)
-				ProcessInitializeOnLoadAttributes (235ms)
-				ProcessInitializeOnLoadMethodAttributes (15ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (2ms)
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1874 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 189.1 MB.
-System memory in use after: 189.2 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2409.
-Total: 3.475800 ms (FindLiveObjects: 0.219800 ms CreateObjectMapping: 0.045400 ms MarkObjects: 3.183100 ms  DeleteObjects: 0.026200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  Time since last request: 0.000366 seconds.
+  path: Assets/FreeVoxelGirl/Models/Materials/KadukiSailorSuitRedHair.mat
+  artifactKey: Guid(3abe9bcff15e0d44890041a01644a29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeVoxelGirl/Models/Materials/KadukiSailorSuitRedHair.mat using Guid(3abe9bcff15e0d44890041a01644a29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb033b222a02c2f68ce3464c1c38aba4') in 0.011584 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
